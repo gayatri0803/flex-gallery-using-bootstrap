@@ -1,0 +1,22 @@
+.container-div{
+    width: 100px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+nav-brand{
+    display: flex;
+    align-items: flex-start;
+}
+.nav-item{
+    align-items: flex-end;
+    height: 80px;
+    line-height: 80px;
+    justify-content: space-between;
+    margin-right: 10px;
+ }
+ #button{
+    width: 120px;
+    margin-right: 5px;
+    }
+
